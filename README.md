@@ -7,4 +7,4 @@
 - 💬 Ask me about ... anything!
 - 📫 How to reach me: ... can you do this through here?
 - 😄 Pronouns: ... he / him
-- ⚡ Fun fact: ... I still listen to Blind Melon
+- ⚡ Fun fact: ... 

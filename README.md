@@ -1,19 +1,23 @@
 [![Header](https://raw.githubusercontent.com/xlcrdev/xlcrdev/main/banner-lemon-lime-cubed.png "Header")](https://xlcr.dev/)
+---
 
 # Hello World 👋 
-## Welcome to this profile.
-I'm not entirely sure about this coding in public stuff but here I am.
+## Welcome to my profile.
+Not sure what to write here, I'll figure it out some day. I like softwware (duh), computers and other hardware, basically technology in general.
+---
 
-## I’m working on ...
+## I’m currently working on ...
 - WordPress and Laravel projects.
 - Print on Demand stores with WooCommerce integrated with Printful.
 - I’m experimenting with and (re)learning some Javascript frameworks.
+---
 
 ## I'm looking for work ... 
 - Web Developer
 - PHP Developer
 - Laravel Developer
 - Full Stack PHP Developer
+---
 
 - Lean towards backend development but skilled in front end design and development too.
 - Prefer working with WordPress / WooCommerce, have worked with Shopify / Plus and some other CMS / Ecommerce platforms.

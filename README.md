@@ -1,5 +1,3 @@
-[![Header](https://xlcrdevelopment.com/wp/wp-content/uploads/2013/05/copy-cropped-copy-copy-200x52-small-logo.jpg "Header")](https://xlcrdevelopment/)
----
 # Hello World 👋 
 ## Welcome to my profile.
 

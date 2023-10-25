@@ -1,6 +1,5 @@
-[![Header](https://raw.githubusercontent.com/xlcrdev/xlcrdev/main/banner-lemon-lime-cubed.png "Header")](https://xlcr.dev/)
+[![Header](https://xlcrdevelopment.com/wp/wp-content/uploads/2013/05/copy-cropped-copy-copy-200x52-small-logo.jpg "Header")](https://xlcrdevelopment/)
 ---
-
 # Hello World 👋 
 ## Welcome to my profile.
 
@@ -30,3 +29,10 @@
 - Really only interested in 100% Remote work.
 - Very special Hybrid scenarios considered.
 - Totally cool with yearly or bi-annual meet ups, maybe even quarterly!
+
+---
+
+| Syntax | Description |
+| ----------- | ----------- |
+| Header | Title |
+| Paragraph | Text |

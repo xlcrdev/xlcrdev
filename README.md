@@ -34,3 +34,9 @@
 | ----------- | ----------- |
 | Header | Title |
 | Paragraph | Text |
+
+> :warning: **Warning:** Do not push the big red button and Don't Panic.
+
+> :memo: **Note:** Sunrises are beautiful, Sunrise rolls are tasty.
+
+> :bulb: **Tip:** Remember to appreciate the little things in life.

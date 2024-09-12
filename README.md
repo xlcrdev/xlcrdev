@@ -7,7 +7,7 @@
 
 ## I’m currently working on ...
 - WordPress and Laravel projects.
-- Print on Demand stores with WooCommerce integrated with Printful.
+- Print on Demand stores using WooCommerce integrated with Printful.
 - I’m experimenting with and (re)learning some Javascript frameworks.
 
 ---
@@ -24,8 +24,7 @@
 - Prefer working with WordPress / WooCommerce, have worked with Shopify / Plus and some other CMS / Ecommerce platforms.
 - Have worked at agencies and with agencies.
 - Can work independantly or on a team.
-- Really only interested in 100% Remote work.
-- Very special Hybrid scenarios considered.
+- Primarily interested in 100% Remote work, hybrid scenarios considered.
 - Totally cool with yearly or bi-annual meet ups, maybe even quarterly!
 
 ---
